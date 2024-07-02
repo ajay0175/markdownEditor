@@ -1,8 +1,10 @@
 import "./App.css";
+import CreateProblem from "./Pages/CreateProblem";
 
 function App() {
   return <div>
-    <h1>hello react</h1>
+    
+    <CreateProblem />
   </div>
 }
 
